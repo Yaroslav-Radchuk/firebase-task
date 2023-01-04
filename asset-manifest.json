@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-task/static/css/main.27881633.css",
+    "main.js": "/firebase-task/static/js/main.00935855.js",
+    "static/js/787.3dc69191.chunk.js": "/firebase-task/static/js/787.3dc69191.chunk.js",
+    "index.html": "/firebase-task/index.html",
+    "main.27881633.css.map": "/firebase-task/static/css/main.27881633.css.map",
+    "main.00935855.js.map": "/firebase-task/static/js/main.00935855.js.map",
+    "787.3dc69191.chunk.js.map": "/firebase-task/static/js/787.3dc69191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27881633.css",
+    "static/js/main.00935855.js"
+  ]
+}
